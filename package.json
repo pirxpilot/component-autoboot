@@ -1,0 +1,20 @@
+{
+  "name": "component-autoboot",
+  "version": "0.0.0",
+  "description": "plugin for component-builder that makes output file self contained",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/code42day/component-autoboot.git"
+  },
+  "keywords": [
+    "component",
+    "builder",
+    "plugin"
+  ],
+  "author": "Damian Krzeminski <pirxpilot@code42day.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/code42day/component-autoboot/issues"
+  }
+}
