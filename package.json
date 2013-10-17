@@ -1,6 +1,6 @@
 {
   "name": "component-autoboot",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "plugin for component-builder that makes output file self contained",
   "main": "index.js",
   "repository": {
