@@ -5,16 +5,13 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/code42day/component-autoboot.git"
+    "url": "git://github.com/pirxpilot/component-autoboot.git"
   },
   "keywords": [
     "component",
     "builder",
     "plugin"
   ],
-  "author": "Damian Krzeminski <pirxpilot@code42day.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/code42day/component-autoboot/issues"
-  }
+  "author": "Damian Krzeminski <pirxpilot@furkot.com>",
+  "license": "MIT"
 }
